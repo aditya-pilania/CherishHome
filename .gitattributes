@@ -1,3 +1,16 @@
-git add .gitattributes
-git commit -m "Fix language stats for GitHub Linguist"
-git push origin main
+# Count PHP, HTML, CSS, JS in language stats
+*.php linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+
+# Exclude Python chatbot from stats
+/chatbot/* linguist-vendored
+
+# Include your htdocs folder if that contains PHP/HTML
+/htdocs/** linguist-detectable=true
+
+# Exclude static/vendor folders if any
+/static/** linguist-vendored
+/vendor/** linguist-vendored
+/assets/** linguist-vendored
