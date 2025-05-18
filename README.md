@@ -106,7 +106,7 @@ CherishHome/
 For queries or contributions, feel free to reach out:
 
 📧 **adityapilaniaoffic@gmail.com**  
-🔗 [LinkedIn](www.linkedin.com/in/aditya-pilania-24o2)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-pilania-24o2)  
 
 
 
