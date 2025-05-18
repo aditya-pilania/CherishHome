@@ -98,7 +98,7 @@ CherishHome/
 - Add sentiment analysis to prevent misuse.
 - OTP Verification for secure logins.
 - API Integration for NGO listings.
-
+- NLP Integration for better responses to users,
 ---
 
 ## 📬 Contact
@@ -106,7 +106,7 @@ CherishHome/
 For queries or contributions, feel free to reach out:
 
 📧 **adityapilaniaoffic@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adityapilania)  
-🌐 [Cherrish Homes Project](#)
+🔗 [LinkedIn](www.linkedin.com/in/aditya-pilania-24o2)  
+
 
 
